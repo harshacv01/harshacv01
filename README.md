@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/harshacv01.png" alt="Harsha's Profile Picture" width="150" style="border-radius: 50%;">
+
 Welcome to my GitHub profile! I'm Harsha Vidanagamage, a passionate developer who loves building and designing creative solutions. 
 
 ### About Me
