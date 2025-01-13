@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Harsha Vidanagamage, a passionate developer wh
 
 - 👨‍🎓 **Undergraduate** | 💻 **Full-Stack Developer with 2 years of experience**
 - 🔭 I’m currently working on MERN Stack Projects.
-- 🌱 I’m currently learning Next.js, TypeScript, Redis.
+- 🌱 I’m currently learning Next.js, TypeScript, Redis, Docker.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about anything related to web development.
 - 📫 How to reach me: harshacc99@gmail.com.
